@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/M-Ronny/star-wars-tales-series-api#readme",
   "dependencies": {
+    "cors": "^2.8.6",
     "express": "^5.2.1"
   }
 }
